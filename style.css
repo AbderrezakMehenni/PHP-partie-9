@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+table {
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+th {
+    background-color: #ccc;
+}
+td {
+    border: 1px solid #ccc;
+}
